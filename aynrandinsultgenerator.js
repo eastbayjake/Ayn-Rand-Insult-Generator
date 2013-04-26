@@ -1,4 +1,4 @@
-var adj = ["lousy", "cheap", "awful", "miserable", "touchy", "abysmal", "driveling"];
+var adj = ["Goddamn, beaten", "lousy", "cheap", "awful", "miserable", "touchy", "abysmal", "driveling"];
 var noun = ["bastard", "monstrosity", "mystic", "scum", "non-entity", "old fool", "social-metaphysical mediocrity"];
 
 var playAgain = false;
